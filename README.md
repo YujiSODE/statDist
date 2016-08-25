@@ -23,6 +23,8 @@ ______
 ##Library list
 * statistics-distributions-js_Ymdf.js (Ben Tilly,2008; modified by Yuji SODE, 2016):  
   the Artistic License or the GPL v1 or later;  
+  https://github.com/YujiSODE/statistics-distributions-js_Ymdf
   
 * calcStat_FtU.js (Yuji SODE, 2016):  
-  the MIT License;
+  the MIT License;  
+  https://github.com/YujiSODE/calcStat_FtU
