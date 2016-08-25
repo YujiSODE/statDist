@@ -11,4 +11,12 @@ ______
 * statDist.js
 
 ##How to use
-* 
+1. To create Worker object with "statDist.js"
+2. The following formatted data is available for the created Worker object:  
+   two csv formatted numerical arrays separated with '@',  
+  e.g., '3,4,5@0,1,2'
+3. The Worker object returns an object with upper probabilities as follows:  
+  {f: p-value for F, t: p-value for t, u: p-value for U}.
+
+##Library list
+*
