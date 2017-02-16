@@ -2,7 +2,7 @@
 
 ## [2.0]
 ##Changed
-- [statistics-distributions_Ymdf.js]: applied the update to v0.3
+- [statistics-distributions_Ymdf.js]: applied the update to version 0.3
 
 ## [1.0] - 2016-08-24
 ##Changed
