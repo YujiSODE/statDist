@@ -1,5 +1,9 @@
 #Change Log
 
+## [2.0]
+##Changed
+- [statistics-distributions_Ymdf.js]: applied the update to v0.3
+
 ## [1.0] - 2016-08-24
 ##Changed
 - [calcStat_FtU.js] line 8: /*calcStat_FtU.js (Yuji SODE, 2016)*/
