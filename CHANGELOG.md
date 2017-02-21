@@ -1,6 +1,6 @@
 #Change Log
 
-## [2.0]
+## [1.1] - 2017-02-16
 ##Changed
 - [README_statistics-distributions-js_Ymdf.md]: applied the update to version 0.3
 - [statistics-distributions_Ymdf.js]: applied the update to version 0.3
