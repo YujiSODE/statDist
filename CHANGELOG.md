@@ -1,5 +1,39 @@
 #Change Log
 
+## [1.1] - 2017-02-21
+##Changed
+- [statDist.js] line 32: `/*statistics-distributions-js_Ymdf.js [v0.3] (Ben Tilly,2008; modified by Yuji SODE, 2016)*/`
+- [statDist.js] line 25: `/*statistics-distributions-js_Ymdf.js [v0.3] (Ben Tilly,2008; modified by Yuji SODE, 2016)`
+- [statDist.js] line 31: applied the update of "statistics-distributions_Ymdf.js" to version 0.3
+
+##Removed
+- [statistics-distributions_Ymdf.js[v0.3]] line 1-389: removed removable white space and comments
+
+##Changed
+- [statistics-distributions_Ymdf.js[v0.3]] line 317-318: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 306-308: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 298-299: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 266-274: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 248-249: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 218-222: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 205-207: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 198-209: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 162-163: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 144-145: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 125-127: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 92-94: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 86-87: changed the way declare variables
+- [statistics-distributions_Ymdf.js[v0.3]] line 80-81: changed the way declare variables
+
+##Removed
+- [statistics-distributions_Ymdf.js[v0.3]] line 419-463: removed comments
+- [statistics-distributions_Ymdf.js[v0.3]] line 1-82: removed comments
+
+## [1.1] - 2017-02-16
+##Changed
+- [README_statistics-distributions-js_Ymdf.md]: applied the update to version 0.3
+- [statistics-distributions_Ymdf.js]: applied the update to version 0.3
+
 ## [1.0] - 2016-08-24
 ##Changed
 - [calcStat_FtU.js] line 8: /*calcStat_FtU.js (Yuji SODE, 2016)*/
