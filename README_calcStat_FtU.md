@@ -7,9 +7,9 @@ https://github.com/YujiSODE/calcStat_FtU
 >See LICENSE.txt or http://opensource.org/licenses/mit-license.php
 ______
 
-##Script
+## Script
 * calcStat_FtU.js
 
 
-##How to use
+## How to use
 * call "_FtU(X,Y)" while X and Y are numerical arrays.
